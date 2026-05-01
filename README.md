@@ -37,14 +37,6 @@ Here are some of my recent publications:
 
 Please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=c7wgPDwAAAAJ) for a comprehensive list of my publications.
 
-## Projects
-
-You can find some of my machine-learning projects in this repository. These projects cover various domains and showcase my skills and expertise in the field.
-
-1. [Cataract Detection with Transfer Learning](https://github.com/abdurrehman357/Cataract-Detection-with-Transfer-Learning)
-2. [Image Detection using Transfer Learning](https://github.com/abdurrehman357/Image-Detection-using-Transfer-Learning)
-3. [Heart Disease Prediction with SVM](https://github.com/abdurrehman357/Heart-Disease-Prediction-with-SVM)
-
 ## Contact
 
 Feel free to reach out to me via email at [abdurrehmanvhr@gmail.com](mailto:abdurrehmanvhr@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abd-ur-rehman-99a8b113a/).
